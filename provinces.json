@@ -1,0 +1,2589 @@
+[
+{
+	"name": {
+		"common": "Keelung City",
+		"native": {
+			"zh_TW": {
+				"common": "基隆市"
+			}
+		}
+	},
+	"cca2": "11",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "基隆市"
+		},
+		"ja_JP": {
+			"common": "基隆市"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Taipei City",
+		"native": {
+			"zh_TW": {
+				"common": "臺北市"
+			}
+		}
+	},
+	"cca2": "01",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "臺北市"
+		},
+		"ja_JP": {
+			"common": "台北市"
+		}
+	}
+},
+{
+	"name": {
+		"common": "New Taipei City",
+		"native": {
+			"zh_TW": {
+				"common": "新北市"
+			}
+		}
+	},
+	"cca2": "31",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "新北市"
+		},
+		"ja_JP": {
+			"common": "新北市"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Taoyuan City",
+		"native": {
+			"zh_TW": {
+				"common": "桃園市"
+			}
+		}
+	},
+	"cca2": "32",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "桃园市"
+		},
+		"ja_JP": {
+			"common": "桃園市"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Hsinchu City",
+		"native": {
+			"zh_TW": {
+				"common": "新竹市"
+			}
+		}
+	},
+	"cca2": "12",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "新竹市"
+		},
+		"ja_JP": {
+			"common": "新竹市"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Hsinchu County",
+		"native": {
+			"zh_TW": {
+				"common": "新竹縣"
+			}
+		}
+	},
+	"cca2": "33",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "新竹县"
+		},
+		"ja_JP": {
+			"common": "新竹県"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Miaoli County",
+		"native": {
+			"zh_TW": {
+				"common": "苗栗縣"
+			}
+		}
+	},
+	"cca2": "35",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "苗栗县"
+		},
+		"ja_JP": {
+			"common": "苗栗県"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Taichung City",
+		"native": {
+			"zh_TW": {
+				"common": "臺中市"
+			}
+		}
+	},
+	"cca2": "03",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "臺中市"
+		},
+		"ja_JP": {
+			"common": "台中市"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Changhua County",
+		"native": {
+			"zh_TW": {
+				"common": "彰化縣"
+			}
+		}
+	},
+	"cca2": "37",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "彰化县"
+		},
+		"ja_JP": {
+			"common": "彰化県"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Nantou County",
+		"native": {
+			"zh_TW": {
+				"common": "南投縣"
+			}
+		}
+	},
+	"cca2": "38",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "南投县"
+		},
+		"ja_JP": {
+			"common": "南投県"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Yunlin County",
+		"native": {
+			"zh_TW": {
+				"common": "雲林縣"
+			}
+		}
+	},
+	"cca2": "39",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "云林县"
+		},
+		"ja_JP": {
+			"common": "雲林県"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Chiayi City",
+		"native": {
+			"zh_TW": {
+				"common": "嘉義市"
+			}
+		}
+	},
+	"cca2": "22",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "嘉义市"
+		},
+		"ja_JP": {
+			"common": "嘉義県"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Chiayi County",
+		"native": {
+			"zh_TW": {
+				"common": "嘉義縣"
+			}
+		}
+	},
+	"cca2": "40",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "嘉义县"
+		},
+		"ja_JP": {
+			"common": "嘉義県"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Tainan City",
+		"native": {
+			"zh_TW": {
+				"common": "臺南市"
+			}
+		}
+	},
+	"cca2": "05",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "臺南市"
+		},
+		"ja_JP": {
+			"common": "台南市"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Kaohsiung City",
+		"native": {
+			"zh_TW": {
+				"common": "高雄市"
+			}
+		}
+	},
+	"cca2": "07",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "高雄市"
+		},
+		"ja_JP": {
+			"common": "高雄市"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Pingtung County",
+		"native": {
+			"zh_TW": {
+				"common": "屏東縣"
+			}
+		}
+	},
+	"cca2": "43",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "屏东县"
+		},
+		"ja_JP": {
+			"common": "屏東県"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Taitung County",
+		"native": {
+			"zh_TW": {
+				"common": "臺東縣"
+			}
+		}
+	},
+	"cca2": "46",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "臺东县"
+		},
+		"ja_JP": {
+			"common": "台東県"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Hualien County",
+		"native": {
+			"zh_TW": {
+				"common": "花蓮縣"
+			}
+		}
+	},
+	"cca2": "45",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "花莲县"
+		},
+		"ja_JP": {
+			"common": "花蓮県"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Yilan County",
+		"native": {
+			"zh_TW": {
+				"common": "宜蘭縣"
+			}
+		}
+	},
+	"cca2": "34",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "宜兰县"
+		},
+		"ja_JP": {
+			"common": "宜蘭県"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Penghu County",
+		"native": {
+			"zh_TW": {
+				"common": "澎湖縣"
+			}
+		}
+	},
+	"cca2": "44",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "澎湖县"
+		},
+		"ja_JP": {
+			"common": "澎湖県"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Kinmen County",
+		"native": {
+			"zh_TW": {
+				"common": "金門縣"
+			}
+		}
+	},
+	"cca2": "90",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "金门县"
+		},
+		"ja_JP": {
+			"common": "金門県"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Lienchiang County",
+		"native": {
+			"zh_TW": {
+				"common": "連江縣"
+			}
+		}
+	},
+	"cca2": "91",
+    "countryCca2": "TW",
+	"translations": {
+		"zh_CN": {
+			"common": "连江县"
+		},
+		"ja_JP": {
+			"common": "連江県"
+		}
+	}
+},
+
+
+
+
+
+{
+	"name": {
+		"common": "Beijing Municipality",
+		"native": {
+			"zh_CN": {
+				"common": "北京市"
+			}
+		}
+	},
+	"cca2": "BJ",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "北京市"
+		},
+		"ja_JP": {
+			"common": "北京市"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Tianjin Municipality",
+		"native": {
+			"zh_CN": {
+				"common": "天津市"
+			}
+		}
+	},
+	"cca2": "TJ",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "天津市"
+		},
+		"ja_JP": {
+			"common": "天津市"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Hebei Province",
+		"native": {
+			"zh_CN": {
+				"common": "河北省"
+			}
+		}
+	},
+	"cca2": "HE",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "河北省"
+		},
+		"ja_JP": {
+			"common": "河北省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Shanxi Province",
+		"native": {
+			"zh_CN": {
+				"common": "山西省"
+			}
+		}
+	},
+	"cca2": "SX",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "山西省"
+		},
+		"ja_JP": {
+			"common": "山西省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Inner Mongolia Autonomous Region",
+		"native": {
+			"zh_CN": {
+				"common": "內蒙古自治区"
+			}
+		}
+	},
+	"cca2": "NM",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "內蒙古自治區"
+		},
+		"ja_JP": {
+			"common": "内モンゴル自治区"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Liaoning Province",
+		"native": {
+			"zh_CN": {
+				"common": "辽宁省"
+			}
+		}
+	},
+	"cca2": "LN",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "遼寧省"
+		},
+		"ja_JP": {
+			"common": "遼寧省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Jilin Province",
+		"native": {
+			"zh_CN": {
+				"common": "吉林省"
+			}
+		}
+	},
+	"cca2": "JL",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "吉林省"
+		},
+		"ja_JP": {
+			"common": "吉林省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Heilongjiang Province",
+		"native": {
+			"zh_CN": {
+				"common": "黑龙江省"
+			}
+		}
+	},
+	"cca2": "HL",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "黑龍江省"
+		},
+		"ja_JP": {
+			"common": "黒竜江省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Shanghai Municipality",
+		"native": {
+			"zh_CN": {
+				"common": "上海市"
+			}
+		}
+	},
+	"cca2": "SH",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "上海市"
+		},
+		"ja_JP": {
+			"common": "上海市"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Jiangsu Province",
+		"native": {
+			"zh_CN": {
+				"common": "江苏省"
+			}
+		}
+	},
+	"cca2": "JS",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "江蘇省"
+		},
+		"ja_JP": {
+			"common": "江蘇省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Zhejiang Province",
+		"native": {
+			"zh_CN": {
+				"common": "浙江省"
+			}
+		}
+	},
+	"cca2": "ZJ",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "浙江省"
+		},
+		"ja_JP": {
+			"common": "浙江省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Anhui Province",
+		"native": {
+			"zh_CN": {
+				"common": "安徽省"
+			}
+		}
+	},
+	"cca2": "AH",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "安徽省"
+		},
+		"ja_JP": {
+			"common": "安徽省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Fujian Province",
+		"native": {
+			"zh_CN": {
+				"common": "福建省"
+			}
+		}
+	},
+	"cca2": "FJ",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "福建省"
+		},
+		"ja_JP": {
+			"common": "福建省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Jiangxi Province",
+		"native": {
+			"zh_CN": {
+				"common": "江西省"
+			}
+		}
+	},
+	"cca2": "JX",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "江西省"
+		},
+		"ja_JP": {
+			"common": "江西省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Shandong Province",
+		"native": {
+			"zh_CN": {
+				"common": "山东省"
+			}
+		}
+	},
+	"cca2": "SD",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "山東省"
+		},
+		"ja_JP": {
+			"common": "山東省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Henan Province",
+		"native": {
+			"zh_CN": {
+				"common": "河南省"
+			}
+		}
+	},
+	"cca2": "HA",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "河南省"
+		},
+		"ja_JP": {
+			"common": "河南省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Hubei Province",
+		"native": {
+			"zh_CN": {
+				"common": "湖北省"
+			}
+		}
+	},
+	"cca2": "HB",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "湖北省"
+		},
+		"ja_JP": {
+			"common": "湖北省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Hunan Province",
+		"native": {
+			"zh_CN": {
+				"common": "湖南省"
+			}
+		}
+	},
+	"cca2": "HN",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "湖南省"
+		},
+		"ja_JP": {
+			"common": "湖南省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Guangdong Province",
+		"native": {
+			"zh_CN": {
+				"common": "广东省"
+			}
+		}
+	},
+	"cca2": "GD",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "廣東省"
+		},
+		"ja_JP": {
+			"common": "広東省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Guangxi Zhuang Autonomous Region",
+		"native": {
+			"zh_CN": {
+				"common": "广西壮族自治区"
+			}
+		}
+	},
+	"cca2": "GX",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "廣西壯族自治區"
+		},
+		"ja_JP": {
+			"common": "広西チワン族自治区"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Hainan Province",
+		"native": {
+			"zh_CN": {
+				"common": "海南省"
+			}
+		}
+	},
+	"cca2": "HI",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "海南省"
+		},
+		"ja_JP": {
+			"common": "海南省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Chongqing Municipality",
+		"native": {
+			"zh_CN": {
+				"common": "重庆市"
+			}
+		}
+	},
+	"cca2": "CQ",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "重慶市"
+		},
+		"ja_JP": {
+			"common": "重慶市"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Sichuan Province",
+		"native": {
+			"zh_CN": {
+				"common": "四川省"
+			}
+		}
+	},
+	"cca2": "SC",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "四川省"
+		},
+		"ja_JP": {
+			"common": "四川省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Guizhou Province",
+		"native": {
+			"zh_CN": {
+				"common": "贵州省"
+			}
+		}
+	},
+	"cca2": "GZ",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "貴州省"
+		},
+		"ja_JP": {
+			"common": "貴州省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Yunnan Province",
+		"native": {
+			"zh_CN": {
+				"common": "云南省"
+			}
+		}
+	},
+	"cca2": "YN",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "雲南省"
+		},
+		"ja_JP": {
+			"common": "雲南省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Tibet Autonomous Region",
+		"native": {
+			"zh_CN": {
+				"common": "西藏自治区"
+			}
+		}
+	},
+	"cca2": "XZ",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "西藏自治區"
+		},
+		"ja_JP": {
+			"common": "チベット自治区"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Shaanxi Province",
+		"native": {
+			"zh_CN": {
+				"common": "陕西省"
+			}
+		}
+	},
+	"cca2": "SN",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "陜西省"
+		},
+		"ja_JP": {
+			"common": "陝西省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Gansu Province",
+		"native": {
+			"zh_CN": {
+				"common": "甘肃省"
+			}
+		}
+	},
+	"cca2": "GS",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "甘肅省"
+		},
+		"ja_JP": {
+			"common": "甘粛省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Qinghai Province",
+		"native": {
+			"zh_CN": {
+				"common": "青海省"
+			}
+		}
+	},
+	"cca2": "QH",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "青海省"
+		},
+		"ja_JP": {
+			"common": "青海省"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Ningxia Hui Autonomous Region",
+		"native": {
+			"zh_CN": {
+				"common": "宁夏回族自治区"
+			}
+		}
+	},
+	"cca2": "NX",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "寧夏回族自治區"
+		},
+		"ja_JP": {
+			"common": "寧夏回族自治区"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Xinjiang Uyghur Autonomous Region",
+		"native": {
+			"zh_CN": {
+				"common": "新疆维吾尔自治区"
+			}
+		}
+	},
+	"cca2": "XJ",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "新疆維吾爾自治區"
+		},
+		"ja_JP": {
+			"common": "新疆ウイグル自治区"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Hong Kong Special Administrative Region",
+		"native": {
+			"zh_CN": {
+				"common": "香港特别行政区"
+			}
+		}
+	},
+	"cca2": "HK",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "香港特別行政區"
+		},
+		"ja_JP": {
+			"common": "香港特別行政区"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Macau Special Administrative Region",
+		"native": {
+			"zh_CN": {
+				"common": "澳门特别行政区"
+			}
+		}
+	},
+	"cca2": "MC",
+    "countryCca2": "CN",
+	"translations": {
+		"zh_TW": {
+			"common": "澳門特別行政區"
+		},
+		"ja_JP": {
+			"common": "マカオ特別行政区"
+		}
+	}
+},
+
+
+
+
+
+{
+	"name": {
+		"common": "Alberta",
+		"native": {
+			"en_US": {
+				"common": "Alberta"
+			}
+		}
+	},
+	"cca2": "AB",
+    "countryCca2": "CA",
+	"translations": {
+		"zh_CN": {
+			"common": "亚伯达"
+		},
+		"zh_TW": {
+			"common": "亞伯達"
+		},
+		"ja_JP": {
+			"common": "アルバータ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "British Columbia",
+		"native": {
+			"en_US": {
+				"common": "British Columbia"
+			}
+		}
+	},
+	"cca2": "BC",
+    "countryCca2": "CA",
+	"translations": {
+		"zh_CN": {
+			"common": "卑诗"
+		},
+		"zh_TW": {
+			"common": "卑詩"
+		},
+		"ja_JP": {
+			"common": "ブリティッシュコロンビア州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Manitoba",
+		"native": {
+			"en_US": {
+				"common": "Manitoba"
+			}
+		}
+	},
+	"cca2": "MB",
+    "countryCca2": "CA",
+	"translations": {
+		"zh_CN": {
+			"common": "缅尼托巴"
+		},
+		"zh_TW": {
+			"common": "緬尼托巴"
+		},
+		"ja_JP": {
+			"common": "マニトバ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "New Brunswick",
+		"native": {
+			"en_US": {
+				"common": "New Brunswick"
+			}
+		}
+	},
+	"cca2": "NB",
+    "countryCca2": "CA",
+	"translations": {
+		"zh_CN": {
+			"common": "纽布朗斯维克"
+		},
+		"zh_TW": {
+			"common": "紐布朗斯維克"
+		},
+		"ja_JP": {
+			"common": "ニューブランズウィック州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Newfoundland Labrador",
+		"native": {
+			"en_US": {
+				"common": "Newfoundland Labrador"
+			}
+		}
+	},
+	"cca2": "NL",
+    "countryCca2": "CA",
+	"translations": {
+		"zh_CN": {
+			"common": "纽芬兰与拉布拉多"
+		},
+		"zh_TW": {
+			"common": "紐芬蘭與拉布拉多"
+		},
+		"ja_JP": {
+			"common": "ューファンドランド・ラブラドール州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Northwest Territories",
+		"native": {
+			"en_US": {
+				"common": "Northwest Territories"
+			}
+		}
+	},
+	"cca2": "NT",
+    "countryCca2": "CA",
+	"translations": {
+		"zh_CN": {
+			"common": "西北特区"
+		},
+		"zh_TW": {
+			"common": "西北特區"
+		},
+		"ja_JP": {
+			"common": "ノースウエスト準州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Nova Scotia",
+		"native": {
+			"en_US": {
+				"common": "Nova Scotia"
+			}
+		}
+	},
+	"cca2": "NS",
+    "countryCca2": "CA",
+	"translations": {
+		"zh_CN": {
+			"common": "诺瓦斯科西亚"
+		},
+		"zh_TW": {
+			"common": "諾瓦斯科西亞"
+		},
+		"ja_JP": {
+			"common": "ノバスコシア州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Nunavut",
+		"native": {
+			"en_US": {
+				"common": "Nunavut"
+			}
+		}
+	},
+	"cca2": "NU",
+    "countryCca2": "CA",
+	"translations": {
+		"zh_CN": {
+			"common": "努那福特区"
+		},
+		"zh_TW": {
+			"common": "努那福特區"
+		},
+		"ja_JP": {
+			"common": "ヌナブト準州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Ontario",
+		"native": {
+			"en_US": {
+				"common": "Ontario"
+			}
+		}
+	},
+	"cca2": "ON",
+    "countryCca2": "CA",
+	"translations": {
+		"zh_CN": {
+			"common": "安大略"
+		},
+		"zh_TW": {
+			"common": "安大略"
+		},
+		"ja_JP": {
+			"common": "オンタリオ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Prince Edward Island",
+		"native": {
+			"en_US": {
+				"common": "Prince Edward Island"
+			}
+		}
+	},
+	"cca2": "PE",
+    "countryCca2": "CA",
+	"translations": {
+		"zh_CN": {
+			"common": "爱德华王子岛"
+		},
+		"zh_TW": {
+			"common": "愛德華王子島"
+		},
+		"ja_JP": {
+			"common": "プリンスエドワードアイランド州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Quebec",
+		"native": {
+			"en_US": {
+				"common": "Quebec"
+			}
+		}
+	},
+	"cca2": "QC",
+    "countryCca2": "CA",
+	"translations": {
+		"zh_CN": {
+			"common": "魁北克"
+		},
+		"zh_TW": {
+			"common": "魁北克"
+		},
+		"ja_JP": {
+			"common": "ケベック州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Saskatchewan",
+		"native": {
+			"en_US": {
+				"common": "Saskatchewan"
+			}
+		}
+	},
+	"cca2": "SK",
+    "countryCca2": "CA",
+	"translations": {
+		"zh_CN": {
+			"common": "沙士卡其湾"
+		},
+		"zh_TW": {
+			"common": "沙士卡其灣"
+		},
+		"ja_JP": {
+			"common": "サスカチュワン州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Yukon",
+		"native": {
+			"en_US": {
+				"common": "Yukon"
+			}
+		}
+	},
+	"cca2": "YT",
+    "countryCca2": "CA",
+	"translations": {
+		"zh_CN": {
+			"common": "育空特区"
+		},
+		"zh_TW": {
+			"common": "育空特區"
+		},
+		"ja_JP": {
+			"common": "ユーコン準州"
+		}
+	}
+},
+
+
+
+
+
+{
+	"name": {
+		"common": "Alabama",
+		"native": {
+			"en_US": {
+				"common": "Alabama"
+			}
+		}
+	},
+	"cca2": "AL",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "阿拉巴马州"
+		},
+		"zh_TW": {
+			"common": "阿拉巴馬州"
+		},
+		"ja_JP": {
+			"common": "アラバマ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Alaska",
+		"native": {
+			"en_US": {
+				"common": "Alaska"
+			}
+		}
+	},
+	"cca2": "AK",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "阿拉斯加州"
+		},
+		"zh_TW": {
+			"common": "阿拉斯加州"
+		},
+		"ja_JP": {
+			"common": "アラスカ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Arizona",
+		"native": {
+			"en_US": {
+				"common": "Arizona"
+			}
+		}
+	},
+	"cca2": "AZ",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "亚利桑那州"
+		},
+		"zh_TW": {
+			"common": "亞利桑那州"
+		},
+		"ja_JP": {
+			"common": "アリゾナ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Arkansas",
+		"native": {
+			"en_US": {
+				"common": "Arkansas"
+			}
+		}
+	},
+	"cca2": "AR",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "阿肯色州"
+		},
+		"zh_TW": {
+			"common": "阿肯色州"
+		},
+		"ja_JP": {
+			"common": "アーカンソー州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "California",
+		"native": {
+			"en_US": {
+				"common": "California"
+			}
+		}
+	},
+	"cca2": "CA",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "加利福尼亚州"
+		},
+		"zh_TW": {
+			"common": "加利福尼亞州"
+		},
+		"ja_JP": {
+			"common": "カリフォルニア州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Colorado",
+		"native": {
+			"en_US": {
+				"common": "Colorado"
+			}
+		}
+	},
+	"cca2": "CO",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "科罗拉多州"
+		},
+		"zh_TW": {
+			"common": "科羅拉多州"
+		},
+		"ja_JP": {
+			"common": "コロラド州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Connecticut",
+		"native": {
+			"en_US": {
+				"common": "Connecticut"
+			}
+		}
+	},
+	"cca2": "CT",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "康乃狄克州"
+		},
+		"zh_TW": {
+			"common": "康乃狄克州"
+		},
+		"ja_JP": {
+			"common": "コネチカット州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Delaware",
+		"native": {
+			"en_US": {
+				"common": "Delaware"
+			}
+		}
+	},
+	"cca2": "DE",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "德拉瓦州"
+		},
+		"zh_TW": {
+			"common": "德拉瓦州"
+		},
+		"ja_JP": {
+			"common": "デラウェア州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "District of Columbia",
+		"native": {
+			"en_US": {
+				"common": "District of Columbia"
+			}
+		}
+	},
+	"cca2": "DC",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "哥伦比亚特区"
+		},
+		"zh_TW": {
+			"common": "哥倫比亞特區"
+		},
+		"ja_JP": {
+			"common": "コロンビア特別区"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Florida",
+		"native": {
+			"en_US": {
+				"common": "Florida"
+			}
+		}
+	},
+	"cca2": "FL",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "佛罗里达州"
+		},
+		"zh_TW": {
+			"common": "佛羅里達州"
+		},
+		"ja_JP": {
+			"common": "フロリダ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Georgia",
+		"native": {
+			"en_US": {
+				"common": "Georgia"
+			}
+		}
+	},
+	"cca2": "GA",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "乔治亚州"
+		},
+		"zh_TW": {
+			"common": "喬治亞州"
+		},
+		"ja_JP": {
+			"common": "ジョージア州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Hawaii",
+		"native": {
+			"en_US": {
+				"common": "Hawaii"
+			}
+		}
+	},
+	"cca2": "HI",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "夏威夷州"
+		},
+		"zh_TW": {
+			"common": "夏威夷州"
+		},
+		"ja_JP": {
+			"common": "ハワイ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Idaho",
+		"native": {
+			"en_US": {
+				"common": "Idaho"
+			}
+		}
+	},
+	"cca2": "ID",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "爱达荷州"
+		},
+		"zh_TW": {
+			"common": "愛達荷州"
+		},
+		"ja_JP": {
+			"common": "アイダホ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Illinois",
+		"native": {
+			"en_US": {
+				"common": "Illinois"
+			}
+		}
+	},
+	"cca2": "IL",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "伊利诺州"
+		},
+		"zh_TW": {
+			"common": "伊利諾州"
+		},
+		"ja_JP": {
+			"common": "イリノイ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Indiana",
+		"native": {
+			"en_US": {
+				"common": "Indiana"
+			}
+		}
+	},
+	"cca2": "IN",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "印地安那州"
+		},
+		"zh_TW": {
+			"common": "印地安那州"
+		},
+		"ja_JP": {
+			"common": "インディアナ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Iowa",
+		"native": {
+			"en_US": {
+				"common": "Iowa"
+			}
+		}
+	},
+	"cca2": "IA",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "爱荷华州"
+		},
+		"zh_TW": {
+			"common": "愛荷華州"
+		},
+		"ja_JP": {
+			"common": "アイオワ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Kansas",
+		"native": {
+			"en_US": {
+				"common": "Kansas"
+			}
+		}
+	},
+	"cca2": "KS",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "堪萨斯州"
+		},
+		"zh_TW": {
+			"common": "堪薩斯州"
+		},
+		"ja_JP": {
+			"common": "カンザス州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Kentucky",
+		"native": {
+			"en_US": {
+				"common": "Kentucky"
+			}
+		}
+	},
+	"cca2": "KY",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "肯塔基州"
+		},
+		"zh_TW": {
+			"common": "肯塔基州"
+		},
+		"ja_JP": {
+			"common": "ケンタッキー州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Louisiana",
+		"native": {
+			"en_US": {
+				"common": "Louisiana"
+			}
+		}
+	},
+	"cca2": "LA",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "路易斯安那州"
+		},
+		"zh_TW": {
+			"common": "路易斯安那州"
+		},
+		"ja_JP": {
+			"common": "ルイジアナ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Maine",
+		"native": {
+			"en_US": {
+				"common": "Maine"
+			}
+		}
+	},
+	"cca2": "ME",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "缅因州"
+		},
+		"zh_TW": {
+			"common": "緬因州"
+		},
+		"ja_JP": {
+			"common": "メイン州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Maryland",
+		"native": {
+			"en_US": {
+				"common": "Maryland"
+			}
+		}
+	},
+	"cca2": "MD",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "马里兰州"
+		},
+		"zh_TW": {
+			"common": "馬里蘭州"
+		},
+		"ja_JP": {
+			"common": "メリーランド州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Massachusetts",
+		"native": {
+			"en_US": {
+				"common": "Massachusetts"
+			}
+		}
+	},
+	"cca2": "MA",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "麻萨诸塞州"
+		},
+		"zh_TW": {
+			"common": "麻薩諸塞州"
+		},
+		"ja_JP": {
+			"common": "マサチューセッツ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Michigan",
+		"native": {
+			"en_US": {
+				"common": "Michigan"
+			}
+		}
+	},
+	"cca2": "MI",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "密西根州"
+		},
+		"zh_TW": {
+			"common": "密西根州"
+		},
+		"ja_JP": {
+			"common": "ミシガン州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Minnesota",
+		"native": {
+			"en_US": {
+				"common": "Minnesota"
+			}
+		}
+	},
+	"cca2": "MN",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "明尼苏达州"
+		},
+		"zh_TW": {
+			"common": "明尼蘇達州"
+		},
+		"ja_JP": {
+			"common": "ミネソタ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Mississippi",
+		"native": {
+			"en_US": {
+				"common": "Mississippi"
+			}
+		}
+	},
+	"cca2": "MS",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "密西西比州"
+		},
+		"zh_TW": {
+			"common": "密西西比州"
+		},
+		"ja_JP": {
+			"common": "ミシシッピ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Missouri",
+		"native": {
+			"en_US": {
+				"common": "Missouri"
+			}
+		}
+	},
+	"cca2": "MO",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "密苏里州"
+		},
+		"zh_TW": {
+			"common": "密蘇里州"
+		},
+		"ja_JP": {
+			"common": "ミズーリ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Montana",
+		"native": {
+			"en_US": {
+				"common": "Montana"
+			}
+		}
+	},
+	"cca2": "MT",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "蒙大拿州"
+		},
+		"zh_TW": {
+			"common": "蒙大拿州"
+		},
+		"ja_JP": {
+			"common": "モンタナ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Nebraska",
+		"native": {
+			"en_US": {
+				"common": "Nebraska"
+			}
+		}
+	},
+	"cca2": "NE",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "内布拉斯加州"
+		},
+		"zh_TW": {
+			"common": "內布拉斯加州"
+		},
+		"ja_JP": {
+			"common": "ネブラスカ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Nevada",
+		"native": {
+			"en_US": {
+				"common": "Nevada"
+			}
+		}
+	},
+	"cca2": "NV",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "内华达州"
+		},
+		"zh_TW": {
+			"common": "內華達州"
+		},
+		"ja_JP": {
+			"common": "ネバダ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "New Hampshire",
+		"native": {
+			"en_US": {
+				"common": "New Hampshire"
+			}
+		}
+	},
+	"cca2": "NH",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "新罕布夏州"
+		},
+		"zh_TW": {
+			"common": "新罕布夏州"
+		},
+		"ja_JP": {
+			"common": "ニューハンプシャー州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "New Jersey",
+		"native": {
+			"en_US": {
+				"common": "New Jersey"
+			}
+		}
+	},
+	"cca2": "NJ",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "纽泽西州"
+		},
+		"zh_TW": {
+			"common": "紐澤西州"
+		},
+		"ja_JP": {
+			"common": "ニュージャージー州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "New Mexico",
+		"native": {
+			"en_US": {
+				"common": "New Mexico"
+			}
+		}
+	},
+	"cca2": "NM",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "新墨西哥州"
+		},
+		"zh_TW": {
+			"common": "新墨西哥州"
+		},
+		"ja_JP": {
+			"common": "ニューメキシコ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "New York",
+		"native": {
+			"en_US": {
+				"common": "New York"
+			}
+		}
+	},
+	"cca2": "NY",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "纽约州"
+		},
+		"zh_TW": {
+			"common": "紐約州"
+		},
+		"ja_JP": {
+			"common": "ニューヨーク州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "North Carolina",
+		"native": {
+			"en_US": {
+				"common": "North Carolina"
+			}
+		}
+	},
+	"cca2": "NC",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "北卡罗莱纳州"
+		},
+		"zh_TW": {
+			"common": "北卡羅萊納州"
+		},
+		"ja_JP": {
+			"common": "ノースカロライナ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "North Dakota",
+		"native": {
+			"en_US": {
+				"common": "North Dakota"
+			}
+		}
+	},
+	"cca2": "ND",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "北达科他州"
+		},
+		"zh_TW": {
+			"common": "北達科他州"
+		},
+		"ja_JP": {
+			"common": "ノースダコタ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Ohio",
+		"native": {
+			"en_US": {
+				"common": "Ohio"
+			}
+		}
+	},
+	"cca2": "OH",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "俄亥俄州"
+		},
+		"zh_TW": {
+			"common": "俄亥俄州"
+		},
+		"ja_JP": {
+			"common": "オハイオ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Oklahoma",
+		"native": {
+			"en_US": {
+				"common": "Oklahoma"
+			}
+		}
+	},
+	"cca2": "OK",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "奥克拉荷马州"
+		},
+		"zh_TW": {
+			"common": "奧克拉荷馬州"
+		},
+		"ja_JP": {
+			"common": "オクラホマ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Oregon",
+		"native": {
+			"en_US": {
+				"common": "Oregon"
+			}
+		}
+	},
+	"cca2": "OR",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "俄勒冈州"
+		},
+		"zh_TW": {
+			"common": "俄勒岡州"
+		},
+		"ja_JP": {
+			"common": "オレゴン州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Pennsylvania",
+		"native": {
+			"en_US": {
+				"common": "Pennsylvania"
+			}
+		}
+	},
+	"cca2": "PA",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "宾夕法尼亚州"
+		},
+		"zh_TW": {
+			"common": "賓夕法尼亞州"
+		},
+		"ja_JP": {
+			"common": "ペンシルベニア州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Rhode Island",
+		"native": {
+			"en_US": {
+				"common": "Rhode Island"
+			}
+		}
+	},
+	"cca2": "RI",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "罗德岛州"
+		},
+		"zh_TW": {
+			"common": "羅德島州"
+		},
+		"ja_JP": {
+			"common": "ロードアイランド州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "South Carolina",
+		"native": {
+			"en_US": {
+				"common": "South Carolina"
+			}
+		}
+	},
+	"cca2": "SC",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "南卡罗莱纳州"
+		},
+		"zh_TW": {
+			"common": "南卡羅萊納州"
+		},
+		"ja_JP": {
+			"common": "サウスカロライナ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "South Dakota",
+		"native": {
+			"en_US": {
+				"common": "South Dakota"
+			}
+		}
+	},
+	"cca2": "SD",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "南达科他州"
+		},
+		"zh_TW": {
+			"common": "南達科他州"
+		},
+		"ja_JP": {
+			"common": "サウスダコタ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Tennessee",
+		"native": {
+			"en_US": {
+				"common": "Tennessee"
+			}
+		}
+	},
+	"cca2": "TN",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "田纳西州"
+		},
+		"zh_TW": {
+			"common": "田納西州"
+		},
+		"ja_JP": {
+			"common": "テネシー州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Texas",
+		"native": {
+			"en_US": {
+				"common": "Texas"
+			}
+		}
+	},
+	"cca2": "TX",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "德克萨斯州"
+		},
+		"zh_TW": {
+			"common": "德克薩斯州"
+		},
+		"ja_JP": {
+			"common": "テキサス州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Utah",
+		"native": {
+			"en_US": {
+				"common": "Utah"
+			}
+		}
+	},
+	"cca2": "UT",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "犹他州"
+		},
+		"zh_TW": {
+			"common": "猶他州"
+		},
+		"ja_JP": {
+			"common": "ユタ州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Vermont",
+		"native": {
+			"en_US": {
+				"common": "Vermont"
+			}
+		}
+	},
+	"cca2": "VT",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "佛蒙特州"
+		},
+		"zh_TW": {
+			"common": "佛蒙特州"
+		},
+		"ja_JP": {
+			"common": "バーモント州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Virginia",
+		"native": {
+			"en_US": {
+				"common": "Virginia"
+			}
+		}
+	},
+	"cca2": "VA",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "维吉尼亚州"
+		},
+		"zh_TW": {
+			"common": "維吉尼亞州"
+		},
+		"ja_JP": {
+			"common": "バージニア州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Washington",
+		"native": {
+			"en_US": {
+				"common": "Washington"
+			}
+		}
+	},
+	"cca2": "WA",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "华盛顿州"
+		},
+		"zh_TW": {
+			"common": "華盛頓州"
+		},
+		"ja_JP": {
+			"common": "ワシントン州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "West Virginia",
+		"native": {
+			"en_US": {
+				"common": "West Virginia"
+			}
+		}
+	},
+	"cca2": "WV",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "西维吉尼亚州"
+		},
+		"zh_TW": {
+			"common": "西維吉尼亞州"
+		},
+		"ja_JP": {
+			"common": "ウェストバージニア州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Wisconsin",
+		"native": {
+			"en_US": {
+				"common": "Wisconsin"
+			}
+		}
+	},
+	"cca2": "WI",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "威斯康辛州"
+		},
+		"zh_TW": {
+			"common": "威斯康辛州"
+		},
+		"ja_JP": {
+			"common": "ウィスコンシン州"
+		}
+	}
+},
+{
+	"name": {
+		"common": "Wyoming",
+		"native": {
+			"en_US": {
+				"common": "Wyoming"
+			}
+		}
+	},
+	"cca2": "WY",
+    "countryCca2": "US",
+	"translations": {
+		"zh_CN": {
+			"common": "怀俄明州"
+		},
+		"zh_TW": {
+			"common": "懷俄明州"
+		},
+		"ja_JP": {
+			"common": "ワイオミング州"
+		}
+	}
+}
+]
