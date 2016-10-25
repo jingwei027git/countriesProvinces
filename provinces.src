@@ -4,7 +4,7 @@
 		"common": "Keelung City",
 		"native": {
 			"zh_TW": {
-				"common": "\u57fa\u9686\u5e02"
+				"common": "基隆市"
 			}
 		}
 	},
@@ -12,10 +12,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u57fa\u9686\u5e02"
+			"common": "基隆市"
 		},
 		"ja_JP": {
-			"common": "\u57fa\u9686\u5e02"
+			"common": "基隆市"
 		}
 	}
 },
@@ -24,7 +24,7 @@
 		"common": "Taipei City",
 		"native": {
 			"zh_TW": {
-				"common": "\u81fa\u5317\u5e02"
+				"common": "臺北市"
 			}
 		}
 	},
@@ -32,10 +32,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u81fa\u5317\u5e02"
+			"common": "臺北市"
 		},
 		"ja_JP": {
-			"common": "\u53f0\u5317\u5e02"
+			"common": "台北市"
 		}
 	}
 },
@@ -44,7 +44,7 @@
 		"common": "New Taipei City",
 		"native": {
 			"zh_TW": {
-				"common": "\u65b0\u5317\u5e02"
+				"common": "新北市"
 			}
 		}
 	},
@@ -52,10 +52,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u65b0\u5317\u5e02"
+			"common": "新北市"
 		},
 		"ja_JP": {
-			"common": "\u65b0\u5317\u5e02"
+			"common": "新北市"
 		}
 	}
 },
@@ -64,7 +64,7 @@
 		"common": "Taoyuan City",
 		"native": {
 			"zh_TW": {
-				"common": "\u6843\u5712\u5e02"
+				"common": "桃園市"
 			}
 		}
 	},
@@ -72,10 +72,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u6843\u56ed\u5e02"
+			"common": "桃园市"
 		},
 		"ja_JP": {
-			"common": "\u6843\u5712\u5e02"
+			"common": "桃園市"
 		}
 	}
 },
@@ -84,7 +84,7 @@
 		"common": "Hsinchu City",
 		"native": {
 			"zh_TW": {
-				"common": "\u65b0\u7af9\u5e02"
+				"common": "新竹市"
 			}
 		}
 	},
@@ -92,10 +92,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u65b0\u7af9\u5e02"
+			"common": "新竹市"
 		},
 		"ja_JP": {
-			"common": "\u65b0\u7af9\u5e02"
+			"common": "新竹市"
 		}
 	}
 },
@@ -104,7 +104,7 @@
 		"common": "Hsinchu County",
 		"native": {
 			"zh_TW": {
-				"common": "\u65b0\u7af9\u7e23"
+				"common": "新竹縣"
 			}
 		}
 	},
@@ -112,10 +112,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u65b0\u7af9\u53bf"
+			"common": "新竹县"
 		},
 		"ja_JP": {
-			"common": "\u65b0\u7af9\u770c"
+			"common": "新竹県"
 		}
 	}
 },
@@ -124,7 +124,7 @@
 		"common": "Miaoli County",
 		"native": {
 			"zh_TW": {
-				"common": "\u82d7\u6817\u7e23"
+				"common": "苗栗縣"
 			}
 		}
 	},
@@ -132,10 +132,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u82d7\u6817\u53bf"
+			"common": "苗栗县"
 		},
 		"ja_JP": {
-			"common": "\u82d7\u6817\u770c"
+			"common": "苗栗県"
 		}
 	}
 },
@@ -144,7 +144,7 @@
 		"common": "Taichung City",
 		"native": {
 			"zh_TW": {
-				"common": "\u81fa\u4e2d\u5e02"
+				"common": "臺中市"
 			}
 		}
 	},
@@ -152,10 +152,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u81fa\u4e2d\u5e02"
+			"common": "臺中市"
 		},
 		"ja_JP": {
-			"common": "\u53f0\u4e2d\u5e02"
+			"common": "台中市"
 		}
 	}
 },
@@ -164,7 +164,7 @@
 		"common": "Changhua County",
 		"native": {
 			"zh_TW": {
-				"common": "\u5f70\u5316\u7e23"
+				"common": "彰化縣"
 			}
 		}
 	},
@@ -172,10 +172,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5f70\u5316\u53bf"
+			"common": "彰化县"
 		},
 		"ja_JP": {
-			"common": "\u5f70\u5316\u770c"
+			"common": "彰化県"
 		}
 	}
 },
@@ -184,7 +184,7 @@
 		"common": "Nantou County",
 		"native": {
 			"zh_TW": {
-				"common": "\u5357\u6295\u7e23"
+				"common": "南投縣"
 			}
 		}
 	},
@@ -192,10 +192,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5357\u6295\u53bf"
+			"common": "南投县"
 		},
 		"ja_JP": {
-			"common": "\u5357\u6295\u770c"
+			"common": "南投県"
 		}
 	}
 },
@@ -204,7 +204,7 @@
 		"common": "Yunlin County",
 		"native": {
 			"zh_TW": {
-				"common": "\u96f2\u6797\u7e23"
+				"common": "雲林縣"
 			}
 		}
 	},
@@ -212,10 +212,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u4e91\u6797\u53bf"
+			"common": "云林县"
 		},
 		"ja_JP": {
-			"common": "\u96f2\u6797\u770c"
+			"common": "雲林県"
 		}
 	}
 },
@@ -224,7 +224,7 @@
 		"common": "Chiayi City",
 		"native": {
 			"zh_TW": {
-				"common": "\u5609\u7fa9\u5e02"
+				"common": "嘉義市"
 			}
 		}
 	},
@@ -232,10 +232,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5609\u4e49\u5e02"
+			"common": "嘉义市"
 		},
 		"ja_JP": {
-			"common": "\u5609\u7fa9\u770c"
+			"common": "嘉義県"
 		}
 	}
 },
@@ -244,7 +244,7 @@
 		"common": "Chiayi County",
 		"native": {
 			"zh_TW": {
-				"common": "\u5609\u7fa9\u7e23"
+				"common": "嘉義縣"
 			}
 		}
 	},
@@ -252,10 +252,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5609\u4e49\u53bf"
+			"common": "嘉义县"
 		},
 		"ja_JP": {
-			"common": "\u5609\u7fa9\u770c"
+			"common": "嘉義県"
 		}
 	}
 },
@@ -264,7 +264,7 @@
 		"common": "Tainan City",
 		"native": {
 			"zh_TW": {
-				"common": "\u81fa\u5357\u5e02"
+				"common": "臺南市"
 			}
 		}
 	},
@@ -272,10 +272,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u81fa\u5357\u5e02"
+			"common": "臺南市"
 		},
 		"ja_JP": {
-			"common": "\u53f0\u5357\u5e02"
+			"common": "台南市"
 		}
 	}
 },
@@ -284,7 +284,7 @@
 		"common": "Kaohsiung City",
 		"native": {
 			"zh_TW": {
-				"common": "\u9ad8\u96c4\u5e02"
+				"common": "高雄市"
 			}
 		}
 	},
@@ -292,10 +292,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u9ad8\u96c4\u5e02"
+			"common": "高雄市"
 		},
 		"ja_JP": {
-			"common": "\u9ad8\u96c4\u5e02"
+			"common": "高雄市"
 		}
 	}
 },
@@ -304,7 +304,7 @@
 		"common": "Pingtung County",
 		"native": {
 			"zh_TW": {
-				"common": "\u5c4f\u6771\u7e23"
+				"common": "屏東縣"
 			}
 		}
 	},
@@ -312,10 +312,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5c4f\u4e1c\u53bf"
+			"common": "屏东县"
 		},
 		"ja_JP": {
-			"common": "\u5c4f\u6771\u770c"
+			"common": "屏東県"
 		}
 	}
 },
@@ -324,7 +324,7 @@
 		"common": "Taitung County",
 		"native": {
 			"zh_TW": {
-				"common": "\u81fa\u6771\u7e23"
+				"common": "臺東縣"
 			}
 		}
 	},
@@ -332,10 +332,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u81fa\u4e1c\u53bf"
+			"common": "臺东县"
 		},
 		"ja_JP": {
-			"common": "\u53f0\u6771\u770c"
+			"common": "台東県"
 		}
 	}
 },
@@ -344,7 +344,7 @@
 		"common": "Hualien County",
 		"native": {
 			"zh_TW": {
-				"common": "\u82b1\u84ee\u7e23"
+				"common": "花蓮縣"
 			}
 		}
 	},
@@ -352,10 +352,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u82b1\u83b2\u53bf"
+			"common": "花莲县"
 		},
 		"ja_JP": {
-			"common": "\u82b1\u84ee\u770c"
+			"common": "花蓮県"
 		}
 	}
 },
@@ -364,7 +364,7 @@
 		"common": "Yilan County",
 		"native": {
 			"zh_TW": {
-				"common": "\u5b9c\u862d\u7e23"
+				"common": "宜蘭縣"
 			}
 		}
 	},
@@ -372,10 +372,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5b9c\u5170\u53bf"
+			"common": "宜兰县"
 		},
 		"ja_JP": {
-			"common": "\u5b9c\u862d\u770c"
+			"common": "宜蘭県"
 		}
 	}
 },
@@ -384,7 +384,7 @@
 		"common": "Penghu County",
 		"native": {
 			"zh_TW": {
-				"common": "\u6f8e\u6e56\u7e23"
+				"common": "澎湖縣"
 			}
 		}
 	},
@@ -392,10 +392,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u6f8e\u6e56\u53bf"
+			"common": "澎湖县"
 		},
 		"ja_JP": {
-			"common": "\u6f8e\u6e56\u770c"
+			"common": "澎湖県"
 		}
 	}
 },
@@ -404,7 +404,7 @@
 		"common": "Kinmen County",
 		"native": {
 			"zh_TW": {
-				"common": "\u91d1\u9580\u7e23"
+				"common": "金門縣"
 			}
 		}
 	},
@@ -412,10 +412,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u91d1\u95e8\u53bf"
+			"common": "金门县"
 		},
 		"ja_JP": {
-			"common": "\u91d1\u9580\u770c"
+			"common": "金門県"
 		}
 	}
 },
@@ -424,7 +424,7 @@
 		"common": "Lienchiang County",
 		"native": {
 			"zh_TW": {
-				"common": "\u9023\u6c5f\u7e23"
+				"common": "連江縣"
 			}
 		}
 	},
@@ -432,10 +432,10 @@
     "countryCca2": "TW",
 	"translations": {
 		"zh_CN": {
-			"common": "\u8fde\u6c5f\u53bf"
+			"common": "连江县"
 		},
 		"ja_JP": {
-			"common": "\u9023\u6c5f\u770c"
+			"common": "連江県"
 		}
 	}
 },
@@ -449,7 +449,7 @@
 		"common": "Beijing Municipality",
 		"native": {
 			"zh_CN": {
-				"common": "\u5317\u4eac\u5e02"
+				"common": "北京市"
 			}
 		}
 	},
@@ -457,10 +457,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u5317\u4eac\u5e02"
+			"common": "北京市"
 		},
 		"ja_JP": {
-			"common": "\u5317\u4eac\u5e02"
+			"common": "北京市"
 		}
 	}
 },
@@ -469,7 +469,7 @@
 		"common": "Tianjin Municipality",
 		"native": {
 			"zh_CN": {
-				"common": "\u5929\u6d25\u5e02"
+				"common": "天津市"
 			}
 		}
 	},
@@ -477,10 +477,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u5929\u6d25\u5e02"
+			"common": "天津市"
 		},
 		"ja_JP": {
-			"common": "\u5929\u6d25\u5e02"
+			"common": "天津市"
 		}
 	}
 },
@@ -489,7 +489,7 @@
 		"common": "Hebei Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u6cb3\u5317\u7701"
+				"common": "河北省"
 			}
 		}
 	},
@@ -497,10 +497,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u6cb3\u5317\u7701"
+			"common": "河北省"
 		},
 		"ja_JP": {
-			"common": "\u6cb3\u5317\u7701"
+			"common": "河北省"
 		}
 	}
 },
@@ -509,7 +509,7 @@
 		"common": "Shanxi Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u5c71\u897f\u7701"
+				"common": "山西省"
 			}
 		}
 	},
@@ -517,10 +517,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u5c71\u897f\u7701"
+			"common": "山西省"
 		},
 		"ja_JP": {
-			"common": "\u5c71\u897f\u7701"
+			"common": "山西省"
 		}
 	}
 },
@@ -529,7 +529,7 @@
 		"common": "Inner Mongolia Autonomous Region",
 		"native": {
 			"zh_CN": {
-				"common": "\u5167\u8499\u53e4\u81ea\u6cbb\u533a"
+				"common": "內蒙古自治区"
 			}
 		}
 	},
@@ -537,10 +537,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u5167\u8499\u53e4\u81ea\u6cbb\u5340"
+			"common": "內蒙古自治區"
 		},
 		"ja_JP": {
-			"common": "\u5185\u30e2\u30f3\u30b4\u30eb\u81ea\u6cbb\u533a"
+			"common": "内モンゴル自治区"
 		}
 	}
 },
@@ -549,7 +549,7 @@
 		"common": "Liaoning Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u8fbd\u5b81\u7701"
+				"common": "辽宁省"
 			}
 		}
 	},
@@ -557,10 +557,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u907c\u5be7\u7701"
+			"common": "遼寧省"
 		},
 		"ja_JP": {
-			"common": "\u907c\u5be7\u7701"
+			"common": "遼寧省"
 		}
 	}
 },
@@ -569,7 +569,7 @@
 		"common": "Jilin Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u5409\u6797\u7701"
+				"common": "吉林省"
 			}
 		}
 	},
@@ -577,10 +577,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u5409\u6797\u7701"
+			"common": "吉林省"
 		},
 		"ja_JP": {
-			"common": "\u5409\u6797\u7701"
+			"common": "吉林省"
 		}
 	}
 },
@@ -589,7 +589,7 @@
 		"common": "Heilongjiang Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u9ed1\u9f99\u6c5f\u7701"
+				"common": "黑龙江省"
 			}
 		}
 	},
@@ -597,10 +597,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u9ed1\u9f8d\u6c5f\u7701"
+			"common": "黑龍江省"
 		},
 		"ja_JP": {
-			"common": "\u9ed2\u7adc\u6c5f\u7701"
+			"common": "黒竜江省"
 		}
 	}
 },
@@ -609,7 +609,7 @@
 		"common": "Shanghai Municipality",
 		"native": {
 			"zh_CN": {
-				"common": "\u4e0a\u6d77\u5e02"
+				"common": "上海市"
 			}
 		}
 	},
@@ -617,10 +617,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u4e0a\u6d77\u5e02"
+			"common": "上海市"
 		},
 		"ja_JP": {
-			"common": "\u4e0a\u6d77\u5e02"
+			"common": "上海市"
 		}
 	}
 },
@@ -629,7 +629,7 @@
 		"common": "Jiangsu Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u6c5f\u82cf\u7701"
+				"common": "江苏省"
 			}
 		}
 	},
@@ -637,10 +637,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u6c5f\u8607\u7701"
+			"common": "江蘇省"
 		},
 		"ja_JP": {
-			"common": "\u6c5f\u8607\u7701"
+			"common": "江蘇省"
 		}
 	}
 },
@@ -649,7 +649,7 @@
 		"common": "Zhejiang Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u6d59\u6c5f\u7701"
+				"common": "浙江省"
 			}
 		}
 	},
@@ -657,10 +657,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u6d59\u6c5f\u7701"
+			"common": "浙江省"
 		},
 		"ja_JP": {
-			"common": "\u6d59\u6c5f\u7701"
+			"common": "浙江省"
 		}
 	}
 },
@@ -669,7 +669,7 @@
 		"common": "Anhui Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u5b89\u5fbd\u7701"
+				"common": "安徽省"
 			}
 		}
 	},
@@ -677,10 +677,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u5b89\u5fbd\u7701"
+			"common": "安徽省"
 		},
 		"ja_JP": {
-			"common": "\u5b89\u5fbd\u7701"
+			"common": "安徽省"
 		}
 	}
 },
@@ -689,7 +689,7 @@
 		"common": "Fujian Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u798f\u5efa\u7701"
+				"common": "福建省"
 			}
 		}
 	},
@@ -697,10 +697,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u798f\u5efa\u7701"
+			"common": "福建省"
 		},
 		"ja_JP": {
-			"common": "\u798f\u5efa\u7701"
+			"common": "福建省"
 		}
 	}
 },
@@ -709,7 +709,7 @@
 		"common": "Jiangxi Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u6c5f\u897f\u7701"
+				"common": "江西省"
 			}
 		}
 	},
@@ -717,10 +717,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u6c5f\u897f\u7701"
+			"common": "江西省"
 		},
 		"ja_JP": {
-			"common": "\u6c5f\u897f\u7701"
+			"common": "江西省"
 		}
 	}
 },
@@ -729,7 +729,7 @@
 		"common": "Shandong Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u5c71\u4e1c\u7701"
+				"common": "山东省"
 			}
 		}
 	},
@@ -737,10 +737,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u5c71\u6771\u7701"
+			"common": "山東省"
 		},
 		"ja_JP": {
-			"common": "\u5c71\u6771\u7701"
+			"common": "山東省"
 		}
 	}
 },
@@ -749,7 +749,7 @@
 		"common": "Henan Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u6cb3\u5357\u7701"
+				"common": "河南省"
 			}
 		}
 	},
@@ -757,10 +757,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u6cb3\u5357\u7701"
+			"common": "河南省"
 		},
 		"ja_JP": {
-			"common": "\u6cb3\u5357\u7701"
+			"common": "河南省"
 		}
 	}
 },
@@ -769,7 +769,7 @@
 		"common": "Hubei Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u6e56\u5317\u7701"
+				"common": "湖北省"
 			}
 		}
 	},
@@ -777,10 +777,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u6e56\u5317\u7701"
+			"common": "湖北省"
 		},
 		"ja_JP": {
-			"common": "\u6e56\u5317\u7701"
+			"common": "湖北省"
 		}
 	}
 },
@@ -789,7 +789,7 @@
 		"common": "Hunan Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u6e56\u5357\u7701"
+				"common": "湖南省"
 			}
 		}
 	},
@@ -797,10 +797,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u6e56\u5357\u7701"
+			"common": "湖南省"
 		},
 		"ja_JP": {
-			"common": "\u6e56\u5357\u7701"
+			"common": "湖南省"
 		}
 	}
 },
@@ -809,7 +809,7 @@
 		"common": "Guangdong Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u5e7f\u4e1c\u7701"
+				"common": "广东省"
 			}
 		}
 	},
@@ -817,10 +817,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u5ee3\u6771\u7701"
+			"common": "廣東省"
 		},
 		"ja_JP": {
-			"common": "\u5e83\u6771\u7701"
+			"common": "広東省"
 		}
 	}
 },
@@ -829,7 +829,7 @@
 		"common": "Guangxi Zhuang Autonomous Region",
 		"native": {
 			"zh_CN": {
-				"common": "\u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a"
+				"common": "广西壮族自治区"
 			}
 		}
 	},
@@ -837,10 +837,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u5ee3\u897f\u58ef\u65cf\u81ea\u6cbb\u5340"
+			"common": "廣西壯族自治區"
 		},
 		"ja_JP": {
-			"common": "\u5e83\u897f\u30c1\u30ef\u30f3\u65cf\u81ea\u6cbb\u533a"
+			"common": "広西チワン族自治区"
 		}
 	}
 },
@@ -849,7 +849,7 @@
 		"common": "Hainan Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u6d77\u5357\u7701"
+				"common": "海南省"
 			}
 		}
 	},
@@ -857,10 +857,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u6d77\u5357\u7701"
+			"common": "海南省"
 		},
 		"ja_JP": {
-			"common": "\u6d77\u5357\u7701"
+			"common": "海南省"
 		}
 	}
 },
@@ -869,7 +869,7 @@
 		"common": "Chongqing Municipality",
 		"native": {
 			"zh_CN": {
-				"common": "\u91cd\u5e86\u5e02"
+				"common": "重庆市"
 			}
 		}
 	},
@@ -877,10 +877,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u91cd\u6176\u5e02"
+			"common": "重慶市"
 		},
 		"ja_JP": {
-			"common": "\u91cd\u6176\u5e02"
+			"common": "重慶市"
 		}
 	}
 },
@@ -889,7 +889,7 @@
 		"common": "Sichuan Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u56db\u5ddd\u7701"
+				"common": "四川省"
 			}
 		}
 	},
@@ -897,10 +897,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u56db\u5ddd\u7701"
+			"common": "四川省"
 		},
 		"ja_JP": {
-			"common": "\u56db\u5ddd\u7701"
+			"common": "四川省"
 		}
 	}
 },
@@ -909,7 +909,7 @@
 		"common": "Guizhou Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u8d35\u5dde\u7701"
+				"common": "贵州省"
 			}
 		}
 	},
@@ -917,10 +917,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u8cb4\u5dde\u7701"
+			"common": "貴州省"
 		},
 		"ja_JP": {
-			"common": "\u8cb4\u5dde\u7701"
+			"common": "貴州省"
 		}
 	}
 },
@@ -929,7 +929,7 @@
 		"common": "Yunnan Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u4e91\u5357\u7701"
+				"common": "云南省"
 			}
 		}
 	},
@@ -937,10 +937,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u96f2\u5357\u7701"
+			"common": "雲南省"
 		},
 		"ja_JP": {
-			"common": "\u96f2\u5357\u7701"
+			"common": "雲南省"
 		}
 	}
 },
@@ -949,7 +949,7 @@
 		"common": "Tibet Autonomous Region",
 		"native": {
 			"zh_CN": {
-				"common": "\u897f\u85cf\u81ea\u6cbb\u533a"
+				"common": "西藏自治区"
 			}
 		}
 	},
@@ -957,10 +957,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u897f\u85cf\u81ea\u6cbb\u5340"
+			"common": "西藏自治區"
 		},
 		"ja_JP": {
-			"common": "\u30c1\u30d9\u30c3\u30c8\u81ea\u6cbb\u533a"
+			"common": "チベット自治区"
 		}
 	}
 },
@@ -969,7 +969,7 @@
 		"common": "Shaanxi Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u9655\u897f\u7701"
+				"common": "陕西省"
 			}
 		}
 	},
@@ -977,10 +977,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u965c\u897f\u7701"
+			"common": "陜西省"
 		},
 		"ja_JP": {
-			"common": "\u965d\u897f\u7701"
+			"common": "陝西省"
 		}
 	}
 },
@@ -989,7 +989,7 @@
 		"common": "Gansu Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u7518\u8083\u7701"
+				"common": "甘肃省"
 			}
 		}
 	},
@@ -997,10 +997,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u7518\u8085\u7701"
+			"common": "甘肅省"
 		},
 		"ja_JP": {
-			"common": "\u7518\u7c9b\u7701"
+			"common": "甘粛省"
 		}
 	}
 },
@@ -1009,7 +1009,7 @@
 		"common": "Qinghai Province",
 		"native": {
 			"zh_CN": {
-				"common": "\u9752\u6d77\u7701"
+				"common": "青海省"
 			}
 		}
 	},
@@ -1017,10 +1017,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u9752\u6d77\u7701"
+			"common": "青海省"
 		},
 		"ja_JP": {
-			"common": "\u9752\u6d77\u7701"
+			"common": "青海省"
 		}
 	}
 },
@@ -1029,7 +1029,7 @@
 		"common": "Ningxia Hui Autonomous Region",
 		"native": {
 			"zh_CN": {
-				"common": "\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a"
+				"common": "宁夏回族自治区"
 			}
 		}
 	},
@@ -1037,10 +1037,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u5be7\u590f\u56de\u65cf\u81ea\u6cbb\u5340"
+			"common": "寧夏回族自治區"
 		},
 		"ja_JP": {
-			"common": "\u5be7\u590f\u56de\u65cf\u81ea\u6cbb\u533a"
+			"common": "寧夏回族自治区"
 		}
 	}
 },
@@ -1049,7 +1049,7 @@
 		"common": "Xinjiang Uyghur Autonomous Region",
 		"native": {
 			"zh_CN": {
-				"common": "\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a"
+				"common": "新疆维吾尔自治区"
 			}
 		}
 	},
@@ -1057,10 +1057,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u65b0\u7586\u7dad\u543e\u723e\u81ea\u6cbb\u5340"
+			"common": "新疆維吾爾自治區"
 		},
 		"ja_JP": {
-			"common": "\u65b0\u7586\u30a6\u30a4\u30b0\u30eb\u81ea\u6cbb\u533a"
+			"common": "新疆ウイグル自治区"
 		}
 	}
 },
@@ -1069,7 +1069,7 @@
 		"common": "Hong Kong Special Administrative Region",
 		"native": {
 			"zh_CN": {
-				"common": "\u9999\u6e2f\u7279\u522b\u884c\u653f\u533a"
+				"common": "香港特别行政区"
 			}
 		}
 	},
@@ -1077,10 +1077,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u9999\u6e2f\u7279\u5225\u884c\u653f\u5340"
+			"common": "香港特別行政區"
 		},
 		"ja_JP": {
-			"common": "\u9999\u6e2f\u7279\u5225\u884c\u653f\u533a"
+			"common": "香港特別行政区"
 		}
 	}
 },
@@ -1089,7 +1089,7 @@
 		"common": "Macau Special Administrative Region",
 		"native": {
 			"zh_CN": {
-				"common": "\u6fb3\u95e8\u7279\u522b\u884c\u653f\u533a"
+				"common": "澳门特别行政区"
 			}
 		}
 	},
@@ -1097,10 +1097,10 @@
     "countryCca2": "CN",
 	"translations": {
 		"zh_TW": {
-			"common": "\u6fb3\u9580\u7279\u5225\u884c\u653f\u5340"
+			"common": "澳門特別行政區"
 		},
 		"ja_JP": {
-			"common": "\u30de\u30ab\u30aa\u7279\u5225\u884c\u653f\u533a"
+			"common": "マカオ特別行政区"
 		}
 	}
 },
@@ -1122,13 +1122,13 @@
     "countryCca2": "CA",
 	"translations": {
 		"zh_CN": {
-			"common": "\u4e9a\u4f2f\u8fbe"
+			"common": "亚伯达"
 		},
 		"zh_TW": {
-			"common": "\u4e9e\u4f2f\u9054"
+			"common": "亞伯達"
 		},
 		"ja_JP": {
-			"common": "\u30a2\u30eb\u30d0\u30fc\u30bf\u5dde"
+			"common": "アルバータ州"
 		}
 	}
 },
@@ -1145,13 +1145,13 @@
     "countryCca2": "CA",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5351\u8bd7"
+			"common": "卑诗"
 		},
 		"zh_TW": {
-			"common": "\u5351\u8a69"
+			"common": "卑詩"
 		},
 		"ja_JP": {
-			"common": "\u30d6\u30ea\u30c6\u30a3\u30c3\u30b7\u30e5\u30b3\u30ed\u30f3\u30d3\u30a2\u5dde"
+			"common": "ブリティッシュコロンビア州"
 		}
 	}
 },
@@ -1168,13 +1168,13 @@
     "countryCca2": "CA",
 	"translations": {
 		"zh_CN": {
-			"common": "\u7f05\u5c3c\u6258\u5df4"
+			"common": "缅尼托巴"
 		},
 		"zh_TW": {
-			"common": "\u7dec\u5c3c\u6258\u5df4"
+			"common": "緬尼托巴"
 		},
 		"ja_JP": {
-			"common": "\u30de\u30cb\u30c8\u30d0\u5dde"
+			"common": "マニトバ州"
 		}
 	}
 },
@@ -1191,13 +1191,13 @@
     "countryCca2": "CA",
 	"translations": {
 		"zh_CN": {
-			"common": "\u7ebd\u5e03\u6717\u65af\u7ef4\u514b"
+			"common": "纽布朗斯维克"
 		},
 		"zh_TW": {
-			"common": "\u7d10\u5e03\u6717\u65af\u7dad\u514b"
+			"common": "紐布朗斯維克"
 		},
 		"ja_JP": {
-			"common": "\u30cb\u30e5\u30fc\u30d6\u30e9\u30f3\u30ba\u30a6\u30a3\u30c3\u30af\u5dde"
+			"common": "ニューブランズウィック州"
 		}
 	}
 },
@@ -1214,13 +1214,13 @@
     "countryCca2": "CA",
 	"translations": {
 		"zh_CN": {
-			"common": "\u7ebd\u82ac\u5170\u4e0e\u62c9\u5e03\u62c9\u591a"
+			"common": "纽芬兰与拉布拉多"
 		},
 		"zh_TW": {
-			"common": "\u7d10\u82ac\u862d\u8207\u62c9\u5e03\u62c9\u591a"
+			"common": "紐芬蘭與拉布拉多"
 		},
 		"ja_JP": {
-			"common": "\u30e5\u30fc\u30d5\u30a1\u30f3\u30c9\u30e9\u30f3\u30c9\u30fb\u30e9\u30d6\u30e9\u30c9\u30fc\u30eb\u5dde"
+			"common": "ューファンドランド・ラブラドール州"
 		}
 	}
 },
@@ -1237,13 +1237,13 @@
     "countryCca2": "CA",
 	"translations": {
 		"zh_CN": {
-			"common": "\u897f\u5317\u7279\u533a"
+			"common": "西北特区"
 		},
 		"zh_TW": {
-			"common": "\u897f\u5317\u7279\u5340"
+			"common": "西北特區"
 		},
 		"ja_JP": {
-			"common": "\u30ce\u30fc\u30b9\u30a6\u30a8\u30b9\u30c8\u6e96\u5dde"
+			"common": "ノースウエスト準州"
 		}
 	}
 },
@@ -1260,13 +1260,13 @@
     "countryCca2": "CA",
 	"translations": {
 		"zh_CN": {
-			"common": "\u8bfa\u74e6\u65af\u79d1\u897f\u4e9a"
+			"common": "诺瓦斯科西亚"
 		},
 		"zh_TW": {
-			"common": "\u8afe\u74e6\u65af\u79d1\u897f\u4e9e"
+			"common": "諾瓦斯科西亞"
 		},
 		"ja_JP": {
-			"common": "\u30ce\u30d0\u30b9\u30b3\u30b7\u30a2\u5dde"
+			"common": "ノバスコシア州"
 		}
 	}
 },
@@ -1283,13 +1283,13 @@
     "countryCca2": "CA",
 	"translations": {
 		"zh_CN": {
-			"common": "\u52aa\u90a3\u798f\u7279\u533a"
+			"common": "努那福特区"
 		},
 		"zh_TW": {
-			"common": "\u52aa\u90a3\u798f\u7279\u5340"
+			"common": "努那福特區"
 		},
 		"ja_JP": {
-			"common": "\u30cc\u30ca\u30d6\u30c8\u6e96\u5dde"
+			"common": "ヌナブト準州"
 		}
 	}
 },
@@ -1306,13 +1306,13 @@
     "countryCca2": "CA",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5b89\u5927\u7565"
+			"common": "安大略"
 		},
 		"zh_TW": {
-			"common": "\u5b89\u5927\u7565"
+			"common": "安大略"
 		},
 		"ja_JP": {
-			"common": "\u30aa\u30f3\u30bf\u30ea\u30aa\u5dde"
+			"common": "オンタリオ州"
 		}
 	}
 },
@@ -1329,13 +1329,13 @@
     "countryCca2": "CA",
 	"translations": {
 		"zh_CN": {
-			"common": "\u7231\u5fb7\u534e\u738b\u5b50\u5c9b"
+			"common": "爱德华王子岛"
 		},
 		"zh_TW": {
-			"common": "\u611b\u5fb7\u83ef\u738b\u5b50\u5cf6"
+			"common": "愛德華王子島"
 		},
 		"ja_JP": {
-			"common": "\u30d7\u30ea\u30f3\u30b9\u30a8\u30c9\u30ef\u30fc\u30c9\u30a2\u30a4\u30e9\u30f3\u30c9\u5dde"
+			"common": "プリンスエドワードアイランド州"
 		}
 	}
 },
@@ -1352,13 +1352,13 @@
     "countryCca2": "CA",
 	"translations": {
 		"zh_CN": {
-			"common": "\u9b41\u5317\u514b"
+			"common": "魁北克"
 		},
 		"zh_TW": {
-			"common": "\u9b41\u5317\u514b"
+			"common": "魁北克"
 		},
 		"ja_JP": {
-			"common": "\u30b1\u30d9\u30c3\u30af\u5dde"
+			"common": "ケベック州"
 		}
 	}
 },
@@ -1375,13 +1375,13 @@
     "countryCca2": "CA",
 	"translations": {
 		"zh_CN": {
-			"common": "\u6c99\u58eb\u5361\u5176\u6e7e"
+			"common": "沙士卡其湾"
 		},
 		"zh_TW": {
-			"common": "\u6c99\u58eb\u5361\u5176\u7063"
+			"common": "沙士卡其灣"
 		},
 		"ja_JP": {
-			"common": "\u30b5\u30b9\u30ab\u30c1\u30e5\u30ef\u30f3\u5dde"
+			"common": "サスカチュワン州"
 		}
 	}
 },
@@ -1398,13 +1398,13 @@
     "countryCca2": "CA",
 	"translations": {
 		"zh_CN": {
-			"common": "\u80b2\u7a7a\u7279\u533a"
+			"common": "育空特区"
 		},
 		"zh_TW": {
-			"common": "\u80b2\u7a7a\u7279\u5340"
+			"common": "育空特區"
 		},
 		"ja_JP": {
-			"common": "\u30e6\u30fc\u30b3\u30f3\u6e96\u5dde"
+			"common": "ユーコン準州"
 		}
 	}
 },
@@ -1426,13 +1426,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u963f\u62c9\u5df4\u9a6c\u5dde"
+			"common": "阿拉巴马州"
 		},
 		"zh_TW": {
-			"common": "\u963f\u62c9\u5df4\u99ac\u5dde"
+			"common": "阿拉巴馬州"
 		},
 		"ja_JP": {
-			"common": "\u30a2\u30e9\u30d0\u30de\u5dde"
+			"common": "アラバマ州"
 		}
 	}
 },
@@ -1449,13 +1449,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u963f\u62c9\u65af\u52a0\u5dde"
+			"common": "阿拉斯加州"
 		},
 		"zh_TW": {
-			"common": "\u963f\u62c9\u65af\u52a0\u5dde"
+			"common": "阿拉斯加州"
 		},
 		"ja_JP": {
-			"common": "\u30a2\u30e9\u30b9\u30ab\u5dde"
+			"common": "アラスカ州"
 		}
 	}
 },
@@ -1472,13 +1472,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u4e9a\u5229\u6851\u90a3\u5dde"
+			"common": "亚利桑那州"
 		},
 		"zh_TW": {
-			"common": "\u4e9e\u5229\u6851\u90a3\u5dde"
+			"common": "亞利桑那州"
 		},
 		"ja_JP": {
-			"common": "\u30a2\u30ea\u30be\u30ca\u5dde"
+			"common": "アリゾナ州"
 		}
 	}
 },
@@ -1495,13 +1495,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u963f\u80af\u8272\u5dde"
+			"common": "阿肯色州"
 		},
 		"zh_TW": {
-			"common": "\u963f\u80af\u8272\u5dde"
+			"common": "阿肯色州"
 		},
 		"ja_JP": {
-			"common": "\u30a2\u30fc\u30ab\u30f3\u30bd\u30fc\u5dde"
+			"common": "アーカンソー州"
 		}
 	}
 },
@@ -1518,13 +1518,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u52a0\u5229\u798f\u5c3c\u4e9a\u5dde"
+			"common": "加利福尼亚州"
 		},
 		"zh_TW": {
-			"common": "\u52a0\u5229\u798f\u5c3c\u4e9e\u5dde"
+			"common": "加利福尼亞州"
 		},
 		"ja_JP": {
-			"common": "\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2\u5dde"
+			"common": "カリフォルニア州"
 		}
 	}
 },
@@ -1541,13 +1541,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u79d1\u7f57\u62c9\u591a\u5dde"
+			"common": "科罗拉多州"
 		},
 		"zh_TW": {
-			"common": "\u79d1\u7f85\u62c9\u591a\u5dde"
+			"common": "科羅拉多州"
 		},
 		"ja_JP": {
-			"common": "\u30b3\u30ed\u30e9\u30c9\u5dde"
+			"common": "コロラド州"
 		}
 	}
 },
@@ -1564,13 +1564,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5eb7\u4e43\u72c4\u514b\u5dde"
+			"common": "康乃狄克州"
 		},
 		"zh_TW": {
-			"common": "\u5eb7\u4e43\u72c4\u514b\u5dde"
+			"common": "康乃狄克州"
 		},
 		"ja_JP": {
-			"common": "\u30b3\u30cd\u30c1\u30ab\u30c3\u30c8\u5dde"
+			"common": "コネチカット州"
 		}
 	}
 },
@@ -1587,13 +1587,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5fb7\u62c9\u74e6\u5dde"
+			"common": "德拉瓦州"
 		},
 		"zh_TW": {
-			"common": "\u5fb7\u62c9\u74e6\u5dde"
+			"common": "德拉瓦州"
 		},
 		"ja_JP": {
-			"common": "\u30c7\u30e9\u30a6\u30a7\u30a2\u5dde"
+			"common": "デラウェア州"
 		}
 	}
 },
@@ -1610,13 +1610,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u54e5\u4f26\u6bd4\u4e9a\u7279\u533a"
+			"common": "哥伦比亚特区"
 		},
 		"zh_TW": {
-			"common": "\u54e5\u502b\u6bd4\u4e9e\u7279\u5340"
+			"common": "哥倫比亞特區"
 		},
 		"ja_JP": {
-			"common": "\u30b3\u30ed\u30f3\u30d3\u30a2\u7279\u5225\u533a"
+			"common": "コロンビア特別区"
 		}
 	}
 },
@@ -1633,13 +1633,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u4f5b\u7f57\u91cc\u8fbe\u5dde"
+			"common": "佛罗里达州"
 		},
 		"zh_TW": {
-			"common": "\u4f5b\u7f85\u91cc\u9054\u5dde"
+			"common": "佛羅里達州"
 		},
 		"ja_JP": {
-			"common": "\u30d5\u30ed\u30ea\u30c0\u5dde"
+			"common": "フロリダ州"
 		}
 	}
 },
@@ -1656,13 +1656,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u4e54\u6cbb\u4e9a\u5dde"
+			"common": "乔治亚州"
 		},
 		"zh_TW": {
-			"common": "\u55ac\u6cbb\u4e9e\u5dde"
+			"common": "喬治亞州"
 		},
 		"ja_JP": {
-			"common": "\u30b8\u30e7\u30fc\u30b8\u30a2\u5dde"
+			"common": "ジョージア州"
 		}
 	}
 },
@@ -1679,13 +1679,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u590f\u5a01\u5937\u5dde"
+			"common": "夏威夷州"
 		},
 		"zh_TW": {
-			"common": "\u590f\u5a01\u5937\u5dde"
+			"common": "夏威夷州"
 		},
 		"ja_JP": {
-			"common": "\u30cf\u30ef\u30a4\u5dde"
+			"common": "ハワイ州"
 		}
 	}
 },
@@ -1702,13 +1702,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u7231\u8fbe\u8377\u5dde"
+			"common": "爱达荷州"
 		},
 		"zh_TW": {
-			"common": "\u611b\u9054\u8377\u5dde"
+			"common": "愛達荷州"
 		},
 		"ja_JP": {
-			"common": "\u30a2\u30a4\u30c0\u30db\u5dde"
+			"common": "アイダホ州"
 		}
 	}
 },
@@ -1725,13 +1725,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u4f0a\u5229\u8bfa\u5dde"
+			"common": "伊利诺州"
 		},
 		"zh_TW": {
-			"common": "\u4f0a\u5229\u8afe\u5dde"
+			"common": "伊利諾州"
 		},
 		"ja_JP": {
-			"common": "\u30a4\u30ea\u30ce\u30a4\u5dde"
+			"common": "イリノイ州"
 		}
 	}
 },
@@ -1748,13 +1748,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5370\u5730\u5b89\u90a3\u5dde"
+			"common": "印地安那州"
 		},
 		"zh_TW": {
-			"common": "\u5370\u5730\u5b89\u90a3\u5dde"
+			"common": "印地安那州"
 		},
 		"ja_JP": {
-			"common": "\u30a4\u30f3\u30c7\u30a3\u30a2\u30ca\u5dde"
+			"common": "インディアナ州"
 		}
 	}
 },
@@ -1771,13 +1771,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u7231\u8377\u534e\u5dde"
+			"common": "爱荷华州"
 		},
 		"zh_TW": {
-			"common": "\u611b\u8377\u83ef\u5dde"
+			"common": "愛荷華州"
 		},
 		"ja_JP": {
-			"common": "\u30a2\u30a4\u30aa\u30ef\u5dde"
+			"common": "アイオワ州"
 		}
 	}
 },
@@ -1794,13 +1794,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u582a\u8428\u65af\u5dde"
+			"common": "堪萨斯州"
 		},
 		"zh_TW": {
-			"common": "\u582a\u85a9\u65af\u5dde"
+			"common": "堪薩斯州"
 		},
 		"ja_JP": {
-			"common": "\u30ab\u30f3\u30b6\u30b9\u5dde"
+			"common": "カンザス州"
 		}
 	}
 },
@@ -1817,13 +1817,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u80af\u5854\u57fa\u5dde"
+			"common": "肯塔基州"
 		},
 		"zh_TW": {
-			"common": "\u80af\u5854\u57fa\u5dde"
+			"common": "肯塔基州"
 		},
 		"ja_JP": {
-			"common": "\u30b1\u30f3\u30bf\u30c3\u30ad\u30fc\u5dde"
+			"common": "ケンタッキー州"
 		}
 	}
 },
@@ -1840,13 +1840,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u8def\u6613\u65af\u5b89\u90a3\u5dde"
+			"common": "路易斯安那州"
 		},
 		"zh_TW": {
-			"common": "\u8def\u6613\u65af\u5b89\u90a3\u5dde"
+			"common": "路易斯安那州"
 		},
 		"ja_JP": {
-			"common": "\u30eb\u30a4\u30b8\u30a2\u30ca\u5dde"
+			"common": "ルイジアナ州"
 		}
 	}
 },
@@ -1863,13 +1863,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u7f05\u56e0\u5dde"
+			"common": "缅因州"
 		},
 		"zh_TW": {
-			"common": "\u7dec\u56e0\u5dde"
+			"common": "緬因州"
 		},
 		"ja_JP": {
-			"common": "\u30e1\u30a4\u30f3\u5dde"
+			"common": "メイン州"
 		}
 	}
 },
@@ -1886,13 +1886,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u9a6c\u91cc\u5170\u5dde"
+			"common": "马里兰州"
 		},
 		"zh_TW": {
-			"common": "\u99ac\u91cc\u862d\u5dde"
+			"common": "馬里蘭州"
 		},
 		"ja_JP": {
-			"common": "\u30e1\u30ea\u30fc\u30e9\u30f3\u30c9\u5dde"
+			"common": "メリーランド州"
 		}
 	}
 },
@@ -1909,13 +1909,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u9ebb\u8428\u8bf8\u585e\u5dde"
+			"common": "麻萨诸塞州"
 		},
 		"zh_TW": {
-			"common": "\u9ebb\u85a9\u8af8\u585e\u5dde"
+			"common": "麻薩諸塞州"
 		},
 		"ja_JP": {
-			"common": "\u30de\u30b5\u30c1\u30e5\u30fc\u30bb\u30c3\u30c4\u5dde"
+			"common": "マサチューセッツ州"
 		}
 	}
 },
@@ -1932,13 +1932,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5bc6\u897f\u6839\u5dde"
+			"common": "密西根州"
 		},
 		"zh_TW": {
-			"common": "\u5bc6\u897f\u6839\u5dde"
+			"common": "密西根州"
 		},
 		"ja_JP": {
-			"common": "\u30df\u30b7\u30ac\u30f3\u5dde"
+			"common": "ミシガン州"
 		}
 	}
 },
@@ -1955,13 +1955,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u660e\u5c3c\u82cf\u8fbe\u5dde"
+			"common": "明尼苏达州"
 		},
 		"zh_TW": {
-			"common": "\u660e\u5c3c\u8607\u9054\u5dde"
+			"common": "明尼蘇達州"
 		},
 		"ja_JP": {
-			"common": "\u30df\u30cd\u30bd\u30bf\u5dde"
+			"common": "ミネソタ州"
 		}
 	}
 },
@@ -1978,13 +1978,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5bc6\u897f\u897f\u6bd4\u5dde"
+			"common": "密西西比州"
 		},
 		"zh_TW": {
-			"common": "\u5bc6\u897f\u897f\u6bd4\u5dde"
+			"common": "密西西比州"
 		},
 		"ja_JP": {
-			"common": "\u30df\u30b7\u30b7\u30c3\u30d4\u5dde"
+			"common": "ミシシッピ州"
 		}
 	}
 },
@@ -2001,13 +2001,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5bc6\u82cf\u91cc\u5dde"
+			"common": "密苏里州"
 		},
 		"zh_TW": {
-			"common": "\u5bc6\u8607\u91cc\u5dde"
+			"common": "密蘇里州"
 		},
 		"ja_JP": {
-			"common": "\u30df\u30ba\u30fc\u30ea\u5dde"
+			"common": "ミズーリ州"
 		}
 	}
 },
@@ -2024,13 +2024,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u8499\u5927\u62ff\u5dde"
+			"common": "蒙大拿州"
 		},
 		"zh_TW": {
-			"common": "\u8499\u5927\u62ff\u5dde"
+			"common": "蒙大拿州"
 		},
 		"ja_JP": {
-			"common": "\u30e2\u30f3\u30bf\u30ca\u5dde"
+			"common": "モンタナ州"
 		}
 	}
 },
@@ -2047,13 +2047,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5185\u5e03\u62c9\u65af\u52a0\u5dde"
+			"common": "内布拉斯加州"
 		},
 		"zh_TW": {
-			"common": "\u5167\u5e03\u62c9\u65af\u52a0\u5dde"
+			"common": "內布拉斯加州"
 		},
 		"ja_JP": {
-			"common": "\u30cd\u30d6\u30e9\u30b9\u30ab\u5dde"
+			"common": "ネブラスカ州"
 		}
 	}
 },
@@ -2070,13 +2070,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5185\u534e\u8fbe\u5dde"
+			"common": "内华达州"
 		},
 		"zh_TW": {
-			"common": "\u5167\u83ef\u9054\u5dde"
+			"common": "內華達州"
 		},
 		"ja_JP": {
-			"common": "\u30cd\u30d0\u30c0\u5dde"
+			"common": "ネバダ州"
 		}
 	}
 },
@@ -2093,13 +2093,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u65b0\u7f55\u5e03\u590f\u5dde"
+			"common": "新罕布夏州"
 		},
 		"zh_TW": {
-			"common": "\u65b0\u7f55\u5e03\u590f\u5dde"
+			"common": "新罕布夏州"
 		},
 		"ja_JP": {
-			"common": "\u30cb\u30e5\u30fc\u30cf\u30f3\u30d7\u30b7\u30e3\u30fc\u5dde"
+			"common": "ニューハンプシャー州"
 		}
 	}
 },
@@ -2116,13 +2116,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u7ebd\u6cfd\u897f\u5dde"
+			"common": "纽泽西州"
 		},
 		"zh_TW": {
-			"common": "\u7d10\u6fa4\u897f\u5dde"
+			"common": "紐澤西州"
 		},
 		"ja_JP": {
-			"common": "\u30cb\u30e5\u30fc\u30b8\u30e3\u30fc\u30b8\u30fc\u5dde"
+			"common": "ニュージャージー州"
 		}
 	}
 },
@@ -2139,13 +2139,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u65b0\u58a8\u897f\u54e5\u5dde"
+			"common": "新墨西哥州"
 		},
 		"zh_TW": {
-			"common": "\u65b0\u58a8\u897f\u54e5\u5dde"
+			"common": "新墨西哥州"
 		},
 		"ja_JP": {
-			"common": "\u30cb\u30e5\u30fc\u30e1\u30ad\u30b7\u30b3\u5dde"
+			"common": "ニューメキシコ州"
 		}
 	}
 },
@@ -2162,13 +2162,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u7ebd\u7ea6\u5dde"
+			"common": "纽约州"
 		},
 		"zh_TW": {
-			"common": "\u7d10\u7d04\u5dde"
+			"common": "紐約州"
 		},
 		"ja_JP": {
-			"common": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u5dde"
+			"common": "ニューヨーク州"
 		}
 	}
 },
@@ -2185,13 +2185,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5317\u5361\u7f57\u83b1\u7eb3\u5dde"
+			"common": "北卡罗莱纳州"
 		},
 		"zh_TW": {
-			"common": "\u5317\u5361\u7f85\u840a\u7d0d\u5dde"
+			"common": "北卡羅萊納州"
 		},
 		"ja_JP": {
-			"common": "\u30ce\u30fc\u30b9\u30ab\u30ed\u30e9\u30a4\u30ca\u5dde"
+			"common": "ノースカロライナ州"
 		}
 	}
 },
@@ -2208,13 +2208,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5317\u8fbe\u79d1\u4ed6\u5dde"
+			"common": "北达科他州"
 		},
 		"zh_TW": {
-			"common": "\u5317\u9054\u79d1\u4ed6\u5dde"
+			"common": "北達科他州"
 		},
 		"ja_JP": {
-			"common": "\u30ce\u30fc\u30b9\u30c0\u30b3\u30bf\u5dde"
+			"common": "ノースダコタ州"
 		}
 	}
 },
@@ -2231,13 +2231,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u4fc4\u4ea5\u4fc4\u5dde"
+			"common": "俄亥俄州"
 		},
 		"zh_TW": {
-			"common": "\u4fc4\u4ea5\u4fc4\u5dde"
+			"common": "俄亥俄州"
 		},
 		"ja_JP": {
-			"common": "\u30aa\u30cf\u30a4\u30aa\u5dde"
+			"common": "オハイオ州"
 		}
 	}
 },
@@ -2254,13 +2254,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5965\u514b\u62c9\u8377\u9a6c\u5dde"
+			"common": "奥克拉荷马州"
 		},
 		"zh_TW": {
-			"common": "\u5967\u514b\u62c9\u8377\u99ac\u5dde"
+			"common": "奧克拉荷馬州"
 		},
 		"ja_JP": {
-			"common": "\u30aa\u30af\u30e9\u30db\u30de\u5dde"
+			"common": "オクラホマ州"
 		}
 	}
 },
@@ -2277,13 +2277,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u4fc4\u52d2\u5188\u5dde"
+			"common": "俄勒冈州"
 		},
 		"zh_TW": {
-			"common": "\u4fc4\u52d2\u5ca1\u5dde"
+			"common": "俄勒岡州"
 		},
 		"ja_JP": {
-			"common": "\u30aa\u30ec\u30b4\u30f3\u5dde"
+			"common": "オレゴン州"
 		}
 	}
 },
@@ -2300,13 +2300,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5bbe\u5915\u6cd5\u5c3c\u4e9a\u5dde"
+			"common": "宾夕法尼亚州"
 		},
 		"zh_TW": {
-			"common": "\u8cd3\u5915\u6cd5\u5c3c\u4e9e\u5dde"
+			"common": "賓夕法尼亞州"
 		},
 		"ja_JP": {
-			"common": "\u30da\u30f3\u30b7\u30eb\u30d9\u30cb\u30a2\u5dde"
+			"common": "ペンシルベニア州"
 		}
 	}
 },
@@ -2323,13 +2323,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u7f57\u5fb7\u5c9b\u5dde"
+			"common": "罗德岛州"
 		},
 		"zh_TW": {
-			"common": "\u7f85\u5fb7\u5cf6\u5dde"
+			"common": "羅德島州"
 		},
 		"ja_JP": {
-			"common": "\u30ed\u30fc\u30c9\u30a2\u30a4\u30e9\u30f3\u30c9\u5dde"
+			"common": "ロードアイランド州"
 		}
 	}
 },
@@ -2346,13 +2346,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5357\u5361\u7f57\u83b1\u7eb3\u5dde"
+			"common": "南卡罗莱纳州"
 		},
 		"zh_TW": {
-			"common": "\u5357\u5361\u7f85\u840a\u7d0d\u5dde"
+			"common": "南卡羅萊納州"
 		},
 		"ja_JP": {
-			"common": "\u30b5\u30a6\u30b9\u30ab\u30ed\u30e9\u30a4\u30ca\u5dde"
+			"common": "サウスカロライナ州"
 		}
 	}
 },
@@ -2369,13 +2369,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5357\u8fbe\u79d1\u4ed6\u5dde"
+			"common": "南达科他州"
 		},
 		"zh_TW": {
-			"common": "\u5357\u9054\u79d1\u4ed6\u5dde"
+			"common": "南達科他州"
 		},
 		"ja_JP": {
-			"common": "\u30b5\u30a6\u30b9\u30c0\u30b3\u30bf\u5dde"
+			"common": "サウスダコタ州"
 		}
 	}
 },
@@ -2392,13 +2392,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u7530\u7eb3\u897f\u5dde"
+			"common": "田纳西州"
 		},
 		"zh_TW": {
-			"common": "\u7530\u7d0d\u897f\u5dde"
+			"common": "田納西州"
 		},
 		"ja_JP": {
-			"common": "\u30c6\u30cd\u30b7\u30fc\u5dde"
+			"common": "テネシー州"
 		}
 	}
 },
@@ -2415,13 +2415,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5fb7\u514b\u8428\u65af\u5dde"
+			"common": "德克萨斯州"
 		},
 		"zh_TW": {
-			"common": "\u5fb7\u514b\u85a9\u65af\u5dde"
+			"common": "德克薩斯州"
 		},
 		"ja_JP": {
-			"common": "\u30c6\u30ad\u30b5\u30b9\u5dde"
+			"common": "テキサス州"
 		}
 	}
 },
@@ -2438,13 +2438,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u72b9\u4ed6\u5dde"
+			"common": "犹他州"
 		},
 		"zh_TW": {
-			"common": "\u7336\u4ed6\u5dde"
+			"common": "猶他州"
 		},
 		"ja_JP": {
-			"common": "\u30e6\u30bf\u5dde"
+			"common": "ユタ州"
 		}
 	}
 },
@@ -2461,13 +2461,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u4f5b\u8499\u7279\u5dde"
+			"common": "佛蒙特州"
 		},
 		"zh_TW": {
-			"common": "\u4f5b\u8499\u7279\u5dde"
+			"common": "佛蒙特州"
 		},
 		"ja_JP": {
-			"common": "\u30d0\u30fc\u30e2\u30f3\u30c8\u5dde"
+			"common": "バーモント州"
 		}
 	}
 },
@@ -2484,13 +2484,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u7ef4\u5409\u5c3c\u4e9a\u5dde"
+			"common": "维吉尼亚州"
 		},
 		"zh_TW": {
-			"common": "\u7dad\u5409\u5c3c\u4e9e\u5dde"
+			"common": "維吉尼亞州"
 		},
 		"ja_JP": {
-			"common": "\u30d0\u30fc\u30b8\u30cb\u30a2\u5dde"
+			"common": "バージニア州"
 		}
 	}
 },
@@ -2507,13 +2507,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u534e\u76db\u987f\u5dde"
+			"common": "华盛顿州"
 		},
 		"zh_TW": {
-			"common": "\u83ef\u76db\u9813\u5dde"
+			"common": "華盛頓州"
 		},
 		"ja_JP": {
-			"common": "\u30ef\u30b7\u30f3\u30c8\u30f3\u5dde"
+			"common": "ワシントン州"
 		}
 	}
 },
@@ -2530,13 +2530,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u897f\u7ef4\u5409\u5c3c\u4e9a\u5dde"
+			"common": "西维吉尼亚州"
 		},
 		"zh_TW": {
-			"common": "\u897f\u7dad\u5409\u5c3c\u4e9e\u5dde"
+			"common": "西維吉尼亞州"
 		},
 		"ja_JP": {
-			"common": "\u30a6\u30a7\u30b9\u30c8\u30d0\u30fc\u30b8\u30cb\u30a2\u5dde"
+			"common": "ウェストバージニア州"
 		}
 	}
 },
@@ -2553,13 +2553,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u5a01\u65af\u5eb7\u8f9b\u5dde"
+			"common": "威斯康辛州"
 		},
 		"zh_TW": {
-			"common": "\u5a01\u65af\u5eb7\u8f9b\u5dde"
+			"common": "威斯康辛州"
 		},
 		"ja_JP": {
-			"common": "\u30a6\u30a3\u30b9\u30b3\u30f3\u30b7\u30f3\u5dde"
+			"common": "ウィスコンシン州"
 		}
 	}
 },
@@ -2576,13 +2576,13 @@
     "countryCca2": "US",
 	"translations": {
 		"zh_CN": {
-			"common": "\u6000\u4fc4\u660e\u5dde"
+			"common": "怀俄明州"
 		},
 		"zh_TW": {
-			"common": "\u61f7\u4fc4\u660e\u5dde"
+			"common": "懷俄明州"
 		},
 		"ja_JP": {
-			"common": "\u30ef\u30a4\u30aa\u30df\u30f3\u30b0\u5dde"
+			"common": "ワイオミング州"
 		}
 	}
 }
